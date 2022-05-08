@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AuctionApp
+build_property.ProjectDir = /Users/mikhailshatokhin/Documents/TechElevator/Coding/Module 2 (Client-Server Programming in C#)/DOTNET Exercises/Individual Exercises/12_Consuming_RESTful_APIs_Part_2/exercise/AuctionApp/

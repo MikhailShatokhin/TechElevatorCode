@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zjJ5l7lw2dNH9sVxulowImV6jZIapjlVwxBHt5ARd/IT0+rmge9TTaC8lrOPBC3z6sr965VUwvSQMOxKFZDew==",
+  "success": true,
+  "projectFilePath": "/Users/mikhailshatokhin/Documents/TechElevator/Coding/Module 2 (Client-Server Programming in C#)/DOTNET Exercises/Individual Exercises/12_Consuming_RESTful_APIs_Part_2/exercise/AuctionApp/AuctionApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikhailshatokhin/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512",
+    "/Users/mikhailshatokhin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mikhailshatokhin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512",
+    "/Users/mikhailshatokhin/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

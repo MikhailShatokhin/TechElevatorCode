@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8D4oIQyoyuo3nlphIjtd16aQJLmxvPPBqNTnYpclLjkCw5OgN+sYZUnkEwQTRMtPPiyMthBCO6koagcYlJOvA==",
+  "success": true,
+  "projectFilePath": "/Users/mikhailshatokhin/Documents/TechElevator/Coding/Module 2 (Client-Server Programming in C#)/DOTNET Exercises/Pair Exercises/c-sharp-capstone-module-2-team-6/18A_Capstone/capstone/TenmoClient/TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikhailshatokhin/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

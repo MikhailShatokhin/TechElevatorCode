@@ -1,0 +1,199 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #87CEEB;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 10px; /*might not need*/
+  row-gap: 10px; /*might not need*/
+  grid-template-areas:
+  "header nav"
+  "main main"
+  "pr gr"
+  "foot foot";
+}
+
+nav ul {
+  margin: 0;
+  padding: 20px 0 0 0;
+  display:flex;
+  justify-content: space-evenly;
+  flex-grow: 1;
+  list-style-type: none; 
+}
+
+nav ul li{
+  grid-area: nav;
+  justify-content: flex-end;
+  list-style: none;
+  width: 30%;
+  background-color: #00afef;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: bold;
+}
+
+header{
+  grid-area: header;
+  display: flex;
+  align-items: center;
+}
+header img {
+  height: 100px;
+  width: auto;
+}
+header h1 {
+  padding-left: 20px;
+  padding-top: 0px;
+}
+
+main{
+  grid-area:main;
+  column-gap: 10px; /*might not need*/
+  row-gap: 10px; /*might not need*/
+  flex-direction: row;
+}
+#contact{
+  display:grid;
+  grid-template-columns: 1fr;
+  flex-direction: column;
+}
+#CU{
+  margin-right: 50%;
+}
+#name{
+  width:300px;
+  height:20px
+}
+#reference{
+  width:308px;
+  height:25px
+}
+#favorite-color{
+  width:308px;
+  height:25px
+}
+#comments{
+  width:500px;
+  height:150px;
+}
+
+main img {
+  grid-area:main-img;
+  object-fit: cover;
+  margin-right: 10px;
+  height: 350px;
+  width: 35%;
+  max-width: max-content;
+  min-width: min-content;
+}
+
+/* li:before - The :before selector inserts something before the content of each selected element(s).
+https://www.w3schools.com/cssref/sel_before.asp */
+/*literally only edits the icons*/
+main li:before {
+  content: '🍡';
+  margin-left: -31px;
+  padding-right: 8px;
+}
+
+main, section, footer {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+#pop-race{
+  grid-area: pr;
+}
+#pop-race div{
+  flex-direction: column;
+  display: flex;
+}
+
+#get-refreshed{
+  flex-direction: column;
+  grid-area: gr;
+}
+footer{
+  grid-area:foot;
+  height:1vh;
+}
+#contact .store-button{
+  color:white;
+}
+
+.store-button { /* used for store link in "Get refreshed" section */
+  width: 25%;
+  padding: 10px;
+  border-radius: 5px;
+  color: #000000;
+  background-color: #00afef;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+a,
+a:hover{
+  color:white;
+}
+a:visited{
+  color:black;
+  text-decoration: none;
+}
+a{
+  color:black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 800px){
+  body{
+    grid-template-columns: 1fr;
+    grid-template-areas:
+    "header"
+    "nav"
+    "main"
+    "pr"
+    "gr"
+    "foot";
+  }
+  header{
+    max-width: 100vw;
+  }
+  nav ul{
+    max-width:100vw;
+    height: 70%
+  }
+  nav ul li{
+    text-align:center;
+    font-size:20px
+  }
+  main{
+    max-width:100vw;
+    flex-direction: column;
+  }
+  main img{
+    height: 280px;
+  }
+  main #DYK{
+    font-size: 25px;
+  }
+  #pop-race{
+    max-width:100vw;
+  }
+  #get-refreshed{
+    max-width:100vw;
+  }
+  #footer{
+    max-width:100vw;
+  }
+
+  #contact-us-main h2{
+
+  }
+  
+}
+
+

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Tech Elevator Popsicles</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+    <img src="images/te-pops.png" alt="blue">
+          <h1>Tech Elevator Popsicles</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="b">Store</a></li>
+        <li><a href="c">Contact Us</a></li>     
+      </ul>
+    </nav> 
+</body>
+
+<main id="contact">
+  <div id="CU">
+    <h2>Contact Us</h2>
+    <form action="http://localhost:5000/api/users/login/fakepath" method="POST">
+
+        <label for="name">Name: </label><br>
+        <input type="text" id="name" name="name" required />    
+        <br />
+        <br>
+
+        <label for="reference">How did you hear of us?</label><br>
+        <select name="reference" id="reference">
+            <option value="Popsicle Monthly">Popsicle Monthly</option>
+            <option value="Daily Popsicle">Daily Popsicle</option>
+            <option value="Yearly Popsicle">Yearly Popsicle</option>
+            <option value="Centurial Popsicle">Centurial Popsicle</option>
+        </select>
+        <br />
+        <br>
+
+        <label for="favorite-color">What color is your favorite popsicle?</label><br>
+        <input type="color" id="favorite-color" name="favorite-color" value="#00afef" />
+        <br />
+
+        <br>
+        <div>
+            <label for="favorite-color">Please let us know any comments you have:</label>
+            <textarea name="comments" id="comments" style="font-family:sans-serif;font-size:1em;">
+            </textarea>
+            </div><br>
+            <p><a href="d" alt="Submit" class="store-button" >Submit</a>
+
+   </form>
+  </div>
+</main>
+  <footer id="footer">
+    <h5>&copy; Tech Elevator 2020</h5>
+  </footer>
+</html>

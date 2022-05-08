@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: rgba(192, 192, 192, 0.1);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+aside {
+  position:fixed;
+  height: 100vh;
+  width: 200px;
+
+  border-color: rgba(0, 173, 238, 0.4);
+  border-width: 1px;
+  border-inline-style: solid;
+}
+
+aside img{
+  height: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main{
+  margin-left: 200px;
+}
+
+nav ul li{
+  text-align: center;
+  text-transform: uppercase;
+  border-color: rgba(0, 173, 238, 0.4);
+  border-width: 1px;
+  border-bottom-style: solid;
+  width:50%;
+  margin-left: 50px;
+
+  list-style: none;
+
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+a{
+  font-weight: bold;
+  color: #00ADEE;
+  
+  text-decoration-line: none;
+}
+
+li:nth-child(1){
+  text-decoration-line: underline;
+}
+
+main{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+main header img[src="stacked-logo.png"]{
+  height: 100px;
+  margin-bottom: 1%;
+}
+
+img[src="https://via.placeholder.com/2400X800"]{
+  width:100%;
+  padding-bottom: 1%;
+}
+
+section div{
+  width: 33%;
+  display:inline-block;
+}
+
+section h2{
+  color: #8CC36F ;
+}
+
+h2 i{
+  padding: 1%;
+}
+
+section p{
+  padding-right: 6%;
+}
+
+#what-we-do{
+  border-right: solid;
+  border-color: rgba(170, 239, 135, 0.8);
+  border-width: 1px;
+  padding-right: 10px;
+  padding-top: 1%;
+}
+#our-work{
+  border-right: solid;
+  border-color: rgba(170, 239, 135, 0.8);
+  border-width: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1%;
+}
+#contact-us{
+  padding-top: 1%;
+  padding-left: 10px;
+}
+section ::first-line{
+  border-left: none;
+}

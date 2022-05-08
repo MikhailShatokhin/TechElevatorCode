@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/b9iFi5tVgGC4xtqJ0SFUiwCNYQ4obbpJ3geKtycSlEQaIq2KBpEWqjyDV/q+RvyrOD5Rb9QsMjnDNC4JmvMPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\individual\\mikhail-shatokhin-student-code\\module-2\\11_Consuming_RESTful_APIs_Part_1\\lecture\\HotelApp\\HotelApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

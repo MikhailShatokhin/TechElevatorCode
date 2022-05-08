@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C6335DAA-53B6-47A9-9E96-29600F83FE1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TenmoClient/TenmoApp.cs">
+    <Files>
+      <File FileName="TenmoClient/Services/ConsoleService.cs" Line="1" Column="1" />
+      <File FileName="TenmoClient/Models/Transfer.cs" Line="1" Column="1" />
+      <File FileName="TenmoClient/Models/User.cs" Line="1" Column="1" />
+      <File FileName="TenmoClient/Program.cs" Line="1" Column="1" />
+      <File FileName="TenmoClient/TenmoApp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tenmo" expanded="True">
+            <Node name="TenmoClient" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="TenmoApp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TenmoServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

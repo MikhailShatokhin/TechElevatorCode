@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\HotelReservationsClient.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\HotelReservationsClient.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\HotelReservationsClient.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\HotelReservationsClient.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\HotelReservationsClient.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\HotelReservationsClient.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.csproj.CopyComplete
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\lecture\HotelReservationsClient\obj\Debug\netcoreapp3.1\HotelReservationsClient.genruntimeconfig.cache

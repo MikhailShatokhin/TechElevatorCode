@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CopyComplete
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\11_Consuming_RESTful_APIs_Part_1\lecture\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.genruntimeconfig.cache

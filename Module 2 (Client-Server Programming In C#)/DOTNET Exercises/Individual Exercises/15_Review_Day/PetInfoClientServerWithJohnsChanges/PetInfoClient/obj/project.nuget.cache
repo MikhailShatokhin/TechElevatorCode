@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQlp4AYOpIbdxAOXj0ddBsf7JF4yMH96JxRMAnLoy1V6ckdWiIf3sm2GGK1/pmsx5+b0aL1NJ8lWgG3ysmsdKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\individual\\mikhail-shatokhin-student-code\\module-2\\15_Review_Day\\PetInfoClientServerWithJohnsChanges\\PetInfoClient\\PetInfoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

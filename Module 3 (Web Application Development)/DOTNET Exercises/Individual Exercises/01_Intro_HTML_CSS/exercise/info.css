@@ -1,0 +1,31 @@
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+}
+
+#name {
+    margin-bottom: 2%;
+}
+#email {
+    margin-bottom: 2%;
+}
+#date-of-birth {
+    margin-bottom: 2%;
+}
+#favorite-color {
+    margin-bottom: 2%;
+}
+#lucky-number {
+    margin-bottom: 2%;
+}
+#confirmation {
+    margin-bottom: 2%;
+}
+#submit {
+    margin-bottom: 2%;
+}

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{857B73A0-AEF1-4938-987C-6B3455F5949F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AuctionApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuctionApp/Services/AuctionApiService.cs">
+    <Files>
+      <File FileName="AuctionApp/Services/AuctionApiService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HTTPWebServicesPOSTExercise" expanded="True">
+            <Node name="AuctionApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="AuctionApiService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HTTPWebServicesPOSTExercise" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

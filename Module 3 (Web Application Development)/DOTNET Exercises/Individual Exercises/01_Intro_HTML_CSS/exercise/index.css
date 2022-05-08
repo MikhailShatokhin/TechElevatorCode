@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: silver;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+}
+
+#TT{
+    text-align: center;
+}
+#TT2{
+    text-align: center;
+}
+#TT3{
+    text-align: center;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 32px;
+    color: cornflowerblue;
+    text-align: center
+}
+
+#KT
+{
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    font-style: italic;
+    margin: 1;
+    padding: 1;
+    
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+table {
+    width: 25%;
+  }
+
+#QS
+  {
+      text-decoration: underline;
+  }
+
+#LS
+{
+    text-decoration: underline;
+}

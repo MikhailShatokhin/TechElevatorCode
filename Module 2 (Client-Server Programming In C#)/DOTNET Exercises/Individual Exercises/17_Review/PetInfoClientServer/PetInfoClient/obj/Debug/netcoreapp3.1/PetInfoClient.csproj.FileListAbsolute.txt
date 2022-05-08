@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.csproj.CopyComplete
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\17_Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.genruntimeconfig.cache

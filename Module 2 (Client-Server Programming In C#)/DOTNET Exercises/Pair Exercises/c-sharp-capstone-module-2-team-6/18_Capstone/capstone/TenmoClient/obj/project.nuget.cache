@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gld5pu41AWuhQ/415lTvdiqKPlSur0Y8bsSXhaxdLPCbawMWd9J5enXi468jJIb6WzG/MEOuEktG77Hi02MeTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\pairs\\c-sharp-capstone-module-2-team-6\\18_Capstone\\capstone\\TenmoClient\\TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

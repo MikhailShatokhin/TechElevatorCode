@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.csproj.CopyComplete
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-2\16_Securing_APIs\exercise\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.genruntimeconfig.cache
