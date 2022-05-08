@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\bin\Debug\netcoreapp3.1\LogicalBranchingTutorial.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\bin\Debug\netcoreapp3.1\LogicalBranchingTutorial.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\bin\Debug\netcoreapp3.1\LogicalBranchingTutorial.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\bin\Debug\netcoreapp3.1\LogicalBranchingTutorial.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\bin\Debug\netcoreapp3.1\LogicalBranchingTutorial.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\bin\Debug\netcoreapp3.1\LogicalBranchingTutorial.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\03_Logical_Branching\tutorial\LogicalBranchingTutorial\obj\Debug\netcoreapp3.1\LogicalBranchingTutorial.genruntimeconfig.cache

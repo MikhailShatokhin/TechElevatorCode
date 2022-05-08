@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\bin\Debug\netcoreapp3.1\FindAndReplace.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\bin\Debug\netcoreapp3.1\FindAndReplace.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\bin\Debug\netcoreapp3.1\FindAndReplace.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\bin\Debug\netcoreapp3.1\FindAndReplace.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\bin\Debug\netcoreapp3.1\FindAndReplace.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\bin\Debug\netcoreapp3.1\FindAndReplace.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\17_File_IO_Writing\exercise\FindAndReplace\obj\Debug\netcoreapp3.1\FindAndReplace.genruntimeconfig.cache

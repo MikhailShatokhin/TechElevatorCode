@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\14_Unit_Testing\exercise\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache

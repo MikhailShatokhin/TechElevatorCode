@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\bin\Debug\netcoreapp3.1\PetElevator.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\bin\Debug\netcoreapp3.1\PetElevator.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\bin\Debug\netcoreapp3.1\PetElevator.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\bin\Debug\netcoreapp3.1\PetElevator.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\bin\Debug\netcoreapp3.1\PetElevator.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\bin\Debug\netcoreapp3.1\PetElevator.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-6\15_Review_Day\exercise\PetElevator\obj\Debug\netcoreapp3.1\PetElevator.genruntimeconfig.cache

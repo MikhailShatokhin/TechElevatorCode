@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\bin\Debug\netcoreapp3.1\Lecture.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\bin\Debug\netcoreapp3.1\Lecture.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\bin\Debug\netcoreapp3.1\Lecture.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\bin\Debug\netcoreapp3.1\Lecture.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\bin\Debug\netcoreapp3.1\Lecture.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\bin\Debug\netcoreapp3.1\Lecture.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\04_Loops_and_Arrays\lecture\Lecture\obj\Debug\netcoreapp3.1\Lecture.genruntimeconfig.cache

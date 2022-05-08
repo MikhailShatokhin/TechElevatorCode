@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\bin\Debug\netcoreapp3.1\CardGame.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\bin\Debug\netcoreapp3.1\CardGame.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\10_Review_Day\lecture\CardGame\obj\Debug\netcoreapp3.1\CardGame.genruntimeconfig.cache

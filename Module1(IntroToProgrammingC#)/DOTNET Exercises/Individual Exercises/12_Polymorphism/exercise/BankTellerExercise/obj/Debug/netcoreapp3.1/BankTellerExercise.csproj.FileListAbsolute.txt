@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\bin\Debug\netcoreapp3.1\BankTellerExercise.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\bin\Debug\netcoreapp3.1\BankTellerExercise.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\bin\Debug\netcoreapp3.1\BankTellerExercise.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\bin\Debug\netcoreapp3.1\BankTellerExercise.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\bin\Debug\netcoreapp3.1\BankTellerExercise.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\bin\Debug\netcoreapp3.1\BankTellerExercise.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\12_Polymorphism\exercise\BankTellerExercise\obj\Debug\netcoreapp3.1\BankTellerExercise.genruntimeconfig.cache

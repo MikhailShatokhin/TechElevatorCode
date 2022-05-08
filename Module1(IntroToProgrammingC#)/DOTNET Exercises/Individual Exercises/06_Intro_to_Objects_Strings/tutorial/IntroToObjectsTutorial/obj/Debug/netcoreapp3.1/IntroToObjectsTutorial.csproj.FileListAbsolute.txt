@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\netcoreapp3.1\IntroToObjectsTutorial.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\netcoreapp3.1\IntroToObjectsTutorial.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\netcoreapp3.1\IntroToObjectsTutorial.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\netcoreapp3.1\IntroToObjectsTutorial.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\netcoreapp3.1\IntroToObjectsTutorial.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\netcoreapp3.1\IntroToObjectsTutorial.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\netcoreapp3.1\IntroToObjectsTutorial.genruntimeconfig.cache

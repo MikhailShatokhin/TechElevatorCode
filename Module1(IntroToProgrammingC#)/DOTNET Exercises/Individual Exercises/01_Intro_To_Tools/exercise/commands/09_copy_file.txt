@@ -1,0 +1,2 @@
+# How do you create a copy of "foo.txt" named "baz.txt"?
+cp -r foo.txt baz.txt

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBK/GypPdbC+xA2IzZ1dBrHSZojEleANykgXFCYkY5OzIcuV49RadMvhTQcBnodIOTX02aKzrhp7OCFAhYtJNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\individual\\mikhail-shatokhin-student-code\\module-1\\17_File_IO_Writing\\lecture\\Lecture\\Lecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

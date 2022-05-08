@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\exercise\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

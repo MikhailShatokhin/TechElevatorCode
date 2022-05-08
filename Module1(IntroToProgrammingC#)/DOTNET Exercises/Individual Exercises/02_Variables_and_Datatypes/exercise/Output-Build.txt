@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Exercises, Configuration: Debug Any CPU ------
+1>Exercises -> C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+2>------ Build started: Project: Exercises.Tests, Configuration: Debug Any CPU ------
+2>Exercises.Tests -> C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises.Tests\bin\Debug\netcoreapp3.1\Exercises.Tests.dll
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

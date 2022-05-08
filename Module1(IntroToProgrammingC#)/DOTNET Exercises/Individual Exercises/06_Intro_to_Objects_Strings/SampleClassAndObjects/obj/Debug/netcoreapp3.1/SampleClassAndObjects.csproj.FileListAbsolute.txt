@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\bin\Debug\netcoreapp3.1\SampleClassAndObjects.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\bin\Debug\netcoreapp3.1\SampleClassAndObjects.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\bin\Debug\netcoreapp3.1\SampleClassAndObjects.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\bin\Debug\netcoreapp3.1\SampleClassAndObjects.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\bin\Debug\netcoreapp3.1\SampleClassAndObjects.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\bin\Debug\netcoreapp3.1\SampleClassAndObjects.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\06_Intro_to_Objects_Strings\SampleClassAndObjects\obj\Debug\netcoreapp3.1\SampleClassAndObjects.genruntimeconfig.cache

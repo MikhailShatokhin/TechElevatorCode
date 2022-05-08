@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\bin\Debug\netcoreapp3.1\TEams.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\bin\Debug\netcoreapp3.1\TEams.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\bin\Debug\netcoreapp3.1\TEams.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\bin\Debug\netcoreapp3.1\TEams.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\bin\Debug\netcoreapp3.1\TEams.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\bin\Debug\netcoreapp3.1\TEams.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-2-team-7\10_Review_Day\exercise\TEams\obj\Debug\netcoreapp3.1\TEams.genruntimeconfig.cache

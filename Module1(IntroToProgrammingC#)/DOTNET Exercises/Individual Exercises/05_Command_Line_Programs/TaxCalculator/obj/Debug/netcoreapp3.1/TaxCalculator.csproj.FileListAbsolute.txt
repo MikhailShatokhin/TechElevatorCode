@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.genruntimeconfig.cache

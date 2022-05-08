@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\02_Variables_and_Datatypes\lecture\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.genruntimeconfig.cache

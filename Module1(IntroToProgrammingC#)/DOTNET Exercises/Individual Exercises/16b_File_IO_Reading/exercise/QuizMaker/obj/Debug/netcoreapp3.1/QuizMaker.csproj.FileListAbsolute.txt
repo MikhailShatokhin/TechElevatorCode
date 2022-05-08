@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.genruntimeconfig.cache

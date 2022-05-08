@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\bin\Debug\netcoreapp3.1\PetSplit.exe
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\bin\Debug\netcoreapp3.1\PetSplit.deps.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\bin\Debug\netcoreapp3.1\PetSplit.runtimeconfig.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\bin\Debug\netcoreapp3.1\PetSplit.runtimeconfig.dev.json
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\bin\Debug\netcoreapp3.1\PetSplit.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\bin\Debug\netcoreapp3.1\PetSplit.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.AssemblyInfo.cs
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.dll
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.pdb
+C:\Users\Student\source\repos\individual\mikhail-shatokhin-student-code\module-1\05_Command_Line_Programs\PetInfo\PetSplit\obj\Debug\netcoreapp3.1\PetSplit.genruntimeconfig.cache
